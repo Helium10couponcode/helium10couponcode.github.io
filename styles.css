@@ -343,11 +343,5 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Space Grotesk', system-ui, sans-serif; }
   text-decoration: underline;
 }
 
-.step-image-placeholder img {
-  width: 100%;
-  max-width: 800px;
-  height: auto;
-  border-radius: 12px;
-  display: block;
-}
+
 
