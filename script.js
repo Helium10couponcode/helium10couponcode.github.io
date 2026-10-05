@@ -3,7 +3,9 @@ const AFFILIATE_URL = "https://allcouponcodes.net/refer/helium10";
 
 // Coupon Data
 const coupons = [
-  { code: "AFF_EXITPOP25", discount: "25% OFF", description: "Get 25% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
+  { code: "CHUNG30", discount: "30% OFF On Diamond Plan", description: "Get 30% Off for 12 Months Limited Time Offer (Manualy Code Apply)", type: "exclusive", initialDays: 4 },
+  { code: "AFF_DIA25CC", discount: "25% OFF On Diamond Plan", description: "Get 25% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
+  { code: "AFF_EXITPOP25", discount: "25% OFF On Platinum Plan", description: "Get 25% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
   { code: "ALLCOUPONCODES20", discount: "20% OFF", description: "20% off for 6 months on Platinum, Diamond & Elite plans", type: "exclusive", initialDays: 3 },
   { code: "ALLCOUPONCODES10", discount: "10% OFF", description: "10% off forever on all monthly and annual subscriptions", type: "normal", initialDays: 5 },
   { code: "AFF_EXITPOP25", discount: "25% OFF", description: "Special discount for new Amazon sellers - Starter plan", type: "normal", initialDays: 5 },
