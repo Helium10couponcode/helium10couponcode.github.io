@@ -4,7 +4,7 @@ const AFFILIATE_URL = "https://allcouponcodes.net/refer/helium10";
 // Coupon Data
 const coupons = [
   { code: "26BFCM40OFFD", discount: "40% OFF On Diamond Plan Black Friday Deal 2026", description: "Get 40% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 4 },
-  { code: "26BFCM40OFFD", discount: "40% OFF On Platinum Plan Black Friday Deal 2026", description: "Get 40% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 4 },
+  { code: "26BFCM40OFFP", discount: "40% OFF On Platinum Plan Black Friday Deal 2026", description: "Get 40% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 4 },
   { code: "CHUNG30", discount: "30% OFF On Diamond Plan", description: "Get 30% Off for 12 Months Limited Time Offer (Manualy Code Apply)", type: "exclusive", initialDays: 4 },
   { code: "AFF_DIA25CC", discount: "25% OFF On Diamond Plan", description: "Get 25% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
   { code: "AFF_EXITPOP25", discount: "25% OFF On Platinum Plan", description: "Get 25% Off for 6 Months Limited Time Offer", type: "exclusive", initialDays: 3 },
